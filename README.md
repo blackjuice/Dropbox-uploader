@@ -1,8 +1,10 @@
 # Dropbox-uploader
 
-Installation guide to Dropbox uploader. I used to access my Dropbox account through a terminal command-line.
+Installation guide to Dropbox uploader which allows us to access Dropbox account through a terminal.
 
-See **"install_guide.md"** to installation.
+* See **"install_guide.md"** to installation.
+
+* Adding directory to $PATH: see **".bashrc"**
 
 ## Command-lines to access your Dropbox uploader
 
